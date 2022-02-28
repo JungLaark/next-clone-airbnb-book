@@ -4,7 +4,7 @@ import palette from "../../styles/palette";
 
 const Container = styled.div<{iconExist: boolean}>`
     input{
-
+        
     }
 `;
 
